@@ -1,0 +1,5 @@
+streamlit==0.87.0
+pywin32==301
+SpeechRecognition==3.8.1
+multi_rake==0.0.2
+scikit_learn==0.24.2
